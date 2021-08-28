@@ -50,15 +50,18 @@ typeof('1.1')
 typeof(true)
   Boolean  
 typeof(null)
-  Empty value
+  object
 typeof(undefined)
-  Empty value
+  undefined
 typeof([])
   Object
 typeof({})
   Object
 typeof(NaN)
   NotaNumber
+
+what is prototype :
+A prototype is an early sample, model or release of a product created to test a concept or process. Typically, a prototype is used to evaluate a new design to improve the accuracy of analysts and system users. It is the step between the formalization and the evaluation of an idea.
 
 
 
